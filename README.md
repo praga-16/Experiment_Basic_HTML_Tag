@@ -25,7 +25,7 @@ Execute the program
 
 </html>
 ~~~
-# OUPUT
+# OUTPUT
 <html>
 <body>
 <h1>Name: Pragatheesvaran AB</h1>
